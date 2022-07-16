@@ -1,0 +1,29 @@
+-C'est quoi un site web
+-Le type site web
+-Quel est la différence entre un langage programmation et un framework
+-C'est quoi git et comme l'utiisé
+-HTML c'est quoi?
+-Les différentes versions de html
+-La structure d'une page web
+-Les balises
+-Les niveaux de texte
+-Les paragraphes
+-Les attributs( et les commentaires
+-Les liens internes et externes( les liens email, tel) target="_blank", les id,mailto:,tel:
+- Insérer des images(exo inserer de videos et des audios)
+-les listes ordonnéee et non ordonner
+-les meta
+-les formulaires(fielset et legend,for)
+-TP(site de restaurant)
+-Le css c'est quoi?
+-les différente version de css
+-Les framework css
+-Où mette le css(link rel)
+-formattez un text en css (font-family, wieght,size) text-align, text-decoration, margin,rgba,text-transform,letter-spacing, text-shadow, wieth, height, padding, border,box-shadow,
+-Ajoutez la couleur, changez le background
+- creer de bordure et des ombres
+-creer des apparence dynamiques
+TP(embellir le site restaut, faire un menu, arranger le footer, structurer les photos)
+-mettre à jour le code git en ligne et publier le site pour qu'il soit disponible en ligne
+-Exo faire untableau contenant les menu du jour
+-Le responsive avec les média Queries
